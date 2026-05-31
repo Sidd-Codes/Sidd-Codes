@@ -17,6 +17,9 @@ I build LLM-powered applications and multi-agent systems, from real-time metabol
 **Infra & tools**
 `FastAPI` `Flask` `Next.js` `PostgreSQL` `Supabase` `Redis` `Docker` `Socket.IO`
 
+**Cloud**
+`AWS` `Azure` `GCP`
+
 ---
 
 ## 👾 Featured projects
@@ -28,7 +31,7 @@ Automates medical billing by listening to live doctor-patient conversations, tra
 `React Native` · `TypeScript` · `Python` · `Groq` · `Llama` · `Whisper` · `Flask`
 
 ---
-### 🏥 [Verdia](https://github.com/sidd-codes/Verdia) · HackPrinceton '26
+### 🥕 [Verdia](https://github.com/sidd-codes/Verdia) · HackPrinceton '26
 Turns verified food purchase data into real-time metabolic risk scores that directly adjust insurance premiums. Diabetic patients eat better and pay less; insurers get live cohort risk visibility before claims lag catches up. Scored via K2 Think + Tavily agents and Gemma 4 31B vision, with Socket.IO-synced dashboards for both patient and insurer roles.
 
 `Python` · `FastAPI` · `Next.js` · `K2 Think` · `Gemma` · `Supabase` · `Redis` · `Docker`
